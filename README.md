@@ -14,4 +14,4 @@ Explanation/Description:
 
 To implement depth of field, we assume the camera is of a certain size and has a certain focal length. In order to create a blurred effect, we must cast multiple rays coming from random locations in our camera lens. This is also called "jittering" the location of ray/camera. We then take the average color generated from the rays to compute the pixel color.
 
-In my raytracer, I assumed the camera had a radius of 1.0 and cast 16 rays to generate the blurred colors.
+In my raytracer, I assumed the camera had a radius of 1.0 and cast 16 rays to generate each pixel color.
