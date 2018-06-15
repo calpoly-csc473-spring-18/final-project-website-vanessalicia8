@@ -23,4 +23,5 @@ The same images, now with focal lengths of 5 (top) and 7 (bottom):
 ![Screenshot](outputs/dof_5.png)
 ![Screenshot](outputs/dof2_7.png)
 
-Website:
+Websites:
+https://calpoly-csc473-spring-18.github.io/final-project-website-vanessalicia8/
