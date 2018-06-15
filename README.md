@@ -15,8 +15,12 @@ To implement depth of field, we assume the camera is of a certain size and has a
 
 In my raytracer, I assumed the camera had a radius of 1.0 and cast 16 rays to generate each pixel color.
 
+The following images were generated using a focal length of 15:
 ![Screenshot](outputs/dof_15.png)
+![Screenshot](outputs/dof2_15.png)
 
-
+The same images, now with focal lengths of 5 (top) and 7 (bottom):
+![Screenshot](outputs/dof_5.png)
+![Screenshot](outputs/dof2_7.png)
 
 Website:
