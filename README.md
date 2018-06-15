@@ -6,6 +6,7 @@ I chose to add a depth of field feature to my raytracer because I wanted my scen
 
 Resources:
 http://ray-tracing-conept.blogspot.com/2015/01/depth-of-field.html
+
 https://steveharveynz.wordpress.com/2012/12/21/ray-tracer-part-5-depth-of-field/
 
 
